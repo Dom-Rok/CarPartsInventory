@@ -12,7 +12,6 @@ A full-stack web application built with Laravel, Vue 3, TypeScript, Bootstrap, a
 - Database: MySQL
 
 ---
----
 
 ## 🧭 Layout Structure
 
